@@ -1,3 +1,14 @@
 page-home {
+    #top-logo {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 20px;
 
+        img {
+            width: 200px;
+        }
+    }
+    
 }
